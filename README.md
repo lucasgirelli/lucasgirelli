@@ -45,4 +45,3 @@
 
 <hr>
 
-### 📈 Estatísticas
