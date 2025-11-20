@@ -46,4 +46,3 @@
 <hr>
 
 ### 📈 Estatísticas
-<div align="center">
