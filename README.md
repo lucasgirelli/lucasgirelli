@@ -47,6 +47,3 @@
 
 ### 📈 Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasGirelli&show_icons=true&theme=dark&hide_border=true" height="150" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGirelli&layout=compact&theme=dark&hide_border=true" height="150" alt="top languages"/>
-</div>
